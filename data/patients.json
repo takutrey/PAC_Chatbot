@@ -1,0 +1,1812 @@
+{
+  "patients": [
+      {
+          "patient_id": "P001",
+          "first_name": "Julien",
+          "last_name": "Gerlach",
+          "dob": "1985-06-18",
+          "address": "28516 Crist Ramp Apt. 937",
+          "phone_number": "+263 8871 401389",
+          "email": "Jerrod.Jaskolski@yahoo.com",
+          "ward": "B",
+          "room_number": "584",
+          "bed_number": "D3",
+          "admission_date": "2025-03-27",
+          "discharge_date": "2025-07-07",
+          "medical_history": [
+              "Migraines",
+              "Diabetes",
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P002",
+          "first_name": "Kaylie",
+          "last_name": "Wunsch",
+          "dob": "1961-11-01",
+          "address": "12606 Bartoletti Forest Suite 242",
+          "phone_number": "+263 8736 199660",
+          "email": "Eda.Price-Murazik78@yahoo.com",
+          "ward": "B",
+          "room_number": "109",
+          "bed_number": "A2",
+          "admission_date": "2025-03-25",
+          "discharge_date": "2025-06-10",
+          "medical_history": [
+              "COPD",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P003",
+          "first_name": "Lilyan",
+          "last_name": "Kirlin",
+          "dob": "1972-01-05",
+          "address": "12274 Axel Wells Suite 367",
+          "phone_number": "+263 8775 816277",
+          "email": "Aglae.Kulas84@yahoo.com",
+          "ward": "C",
+          "room_number": "180",
+          "bed_number": "D6",
+          "admission_date": "2025-05-24",
+          "discharge_date": "2025-06-09",
+          "medical_history": [
+              "Anxiety",
+              "Epilepsy",
+              "COPD"
+          ]
+      },
+      {
+          "patient_id": "P004",
+          "first_name": "Annamae",
+          "last_name": "Casper",
+          "dob": "1996-12-10",
+          "address": "639 Doyle Skyway Apt. 741",
+          "phone_number": "+263 8887 529959",
+          "email": "Gianni_Johnson@yahoo.com",
+          "ward": "B",
+          "room_number": "362",
+          "bed_number": "E7",
+          "admission_date": "2025-03-15",
+          "discharge_date": "2025-03-25",
+          "medical_history": [
+              "Anxiety",
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P005",
+          "first_name": "Zena",
+          "last_name": "Luettgen",
+          "dob": "1984-06-08",
+          "address": "350 Hartmann Key Suite 676",
+          "phone_number": "+263 8196 312092",
+          "email": "Alysha91@yahoo.com",
+          "ward": "E",
+          "room_number": "229",
+          "bed_number": "B3",
+          "admission_date": "2025-05-16",
+          "discharge_date": "2025-07-15",
+          "medical_history": [
+              "Diabetes",
+              "Heart Disease",
+              "Arthritis"
+          ]
+      },
+      {
+          "patient_id": "P006",
+          "first_name": "Al",
+          "last_name": "Pollich",
+          "dob": "1959-01-29",
+          "address": "3138 Jacobi Extension Apt. 728",
+          "phone_number": "+263 8114 575352",
+          "email": "Jett56@hotmail.com",
+          "ward": "E",
+          "room_number": "497",
+          "bed_number": "A8",
+          "admission_date": "2025-02-01",
+          "discharge_date": "2025-03-09",
+          "medical_history": [
+              "Heart Disease",
+              "Allergies",
+              "Kidney Disease"
+          ]
+      },
+      {
+          "patient_id": "P007",
+          "first_name": "Reyna",
+          "last_name": "Stokes",
+          "dob": "1976-04-27",
+          "address": "611 Hobart Cove Suite 671",
+          "phone_number": "+263 8551 827375",
+          "email": "Liliane_Ullrich@hotmail.com",
+          "ward": "E",
+          "room_number": "381",
+          "bed_number": "E6",
+          "admission_date": "2025-04-19",
+          "discharge_date": "2025-06-16",
+          "medical_history": [
+              "Diabetes",
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P008",
+          "first_name": "Palma",
+          "last_name": "Collins",
+          "dob": "1953-08-28",
+          "address": "740 Price Expressway Suite 527",
+          "phone_number": "+263 8136 229091",
+          "email": "Ted.Quigley11@gmail.com",
+          "ward": "A",
+          "room_number": "423",
+          "bed_number": "E2",
+          "admission_date": "2025-04-11",
+          "discharge_date": "2025-07-28",
+          "medical_history": [
+              "Allergies",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P009",
+          "first_name": "Jayda",
+          "last_name": "Morissette",
+          "dob": "1966-03-14",
+          "address": "224 Edward Street Apt. 229",
+          "phone_number": "+263 8214 886981",
+          "email": "Mariela_Schulist@hotmail.com",
+          "ward": "C",
+          "room_number": "206",
+          "bed_number": "H1",
+          "admission_date": "2025-03-01",
+          "discharge_date": "2025-06-05",
+          "medical_history": [
+              "Anxiety",
+              "Epilepsy"
+          ]
+      },
+      {
+          "patient_id": "P010",
+          "first_name": "Shyanne",
+          "last_name": "Senger",
+          "dob": "1951-09-10",
+          "address": "10782 Jefferson Avenue Suite 137",
+          "phone_number": "+263 8738 759872",
+          "email": "Emmanuel25@hotmail.com",
+          "ward": "B",
+          "room_number": "578",
+          "bed_number": "G2",
+          "admission_date": "2025-05-16",
+          "discharge_date": "2025-06-28",
+          "medical_history": [
+              "Osteoporosis",
+              "Kidney Disease",
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P011",
+          "first_name": "Hank",
+          "last_name": "Blanda",
+          "dob": "1998-12-04",
+          "address": "2324 Kuvalis Underpass Suite 407",
+          "phone_number": "+263 8107 650394",
+          "email": "Drew.Koss@gmail.com",
+          "ward": "E",
+          "room_number": "189",
+          "bed_number": "B6",
+          "admission_date": "2025-05-15",
+          "discharge_date": "2025-07-09",
+          "medical_history": [
+              "Heart Disease"
+          ]
+      },
+      {
+          "patient_id": "P012",
+          "first_name": "Baby",
+          "last_name": "Hermiston",
+          "dob": "1976-10-23",
+          "address": "78890 School Street Apt. 379",
+          "phone_number": "+263 8595 493739",
+          "email": "Jovanny_Yost@gmail.com",
+          "ward": "B",
+          "room_number": "585",
+          "bed_number": "A2",
+          "admission_date": "2025-04-28",
+          "discharge_date": "2025-08-20",
+          "medical_history": [
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P013",
+          "first_name": "Tristian",
+          "last_name": "Schamberger",
+          "dob": "1978-05-08",
+          "address": "45731 Beatty Alley Suite 399",
+          "phone_number": "+263 8557 582024",
+          "email": "Parker_Wehner@yahoo.com",
+          "ward": "B",
+          "room_number": "339",
+          "bed_number": "E9",
+          "admission_date": "2025-03-28",
+          "discharge_date": "2025-05-11",
+          "medical_history": [
+              "Anemia",
+              "Diabetes",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P014",
+          "first_name": "Lilyan",
+          "last_name": "Romaguera",
+          "dob": "1984-09-14",
+          "address": "238 Woodland Road Suite 826",
+          "phone_number": "+263 8660 626348",
+          "email": "Margarita.Crona@hotmail.com",
+          "ward": "G",
+          "room_number": "530",
+          "bed_number": "A8",
+          "admission_date": "2025-04-01",
+          "discharge_date": "2025-06-16",
+          "medical_history": [
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P015",
+          "first_name": "Melisa",
+          "last_name": "Pacocha",
+          "dob": "1975-12-23",
+          "address": "52084 Harvey Mountain Suite 542",
+          "phone_number": "+263 8075 953697",
+          "email": "Linwood42@gmail.com",
+          "ward": "H",
+          "room_number": "409",
+          "bed_number": "H1",
+          "admission_date": "2025-02-19",
+          "discharge_date": "2025-05-31",
+          "medical_history": [
+              "Arthritis",
+              "Heart Disease"
+          ]
+      },
+      {
+          "patient_id": "P016",
+          "first_name": "Jayce",
+          "last_name": "Hessel",
+          "dob": "1999-12-11",
+          "address": "837 Braun Prairie Suite 979",
+          "phone_number": "+263 8735 421627",
+          "email": "Harmon63@gmail.com",
+          "ward": "F",
+          "room_number": "392",
+          "bed_number": "G9",
+          "admission_date": "2025-05-13",
+          "discharge_date": "2025-06-27",
+          "medical_history": [
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P017",
+          "first_name": "Johann",
+          "last_name": "Stanton",
+          "dob": "1993-11-03",
+          "address": "84840 S Maple Street Apt. 309",
+          "phone_number": "+263 8151 217146",
+          "email": "Henry.Price12@hotmail.com",
+          "ward": "H",
+          "room_number": "536",
+          "bed_number": "D8",
+          "admission_date": "2025-03-10",
+          "discharge_date": "2025-04-16",
+          "medical_history": [
+              "Kidney Disease",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P018",
+          "first_name": "Rossie",
+          "last_name": "Wolff",
+          "dob": "1970-09-04",
+          "address": "275 Adrian Pike Suite 337",
+          "phone_number": "+263 8925 228643",
+          "email": "Annabel_Kohler@hotmail.com",
+          "ward": "G",
+          "room_number": "432",
+          "bed_number": "D4",
+          "admission_date": "2025-03-10",
+          "discharge_date": "2025-04-30",
+          "medical_history": [
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P019",
+          "first_name": "Kaia",
+          "last_name": "Mayer",
+          "dob": "1967-11-24",
+          "address": "4938 Romaguera Overpass Suite 103",
+          "phone_number": "+263 8023 538653",
+          "email": "Dee_Hoeger38@hotmail.com",
+          "ward": "H",
+          "room_number": "157",
+          "bed_number": "H2",
+          "admission_date": "2025-04-09",
+          "discharge_date": "2025-06-01",
+          "medical_history": [
+              "Thyroid Disorder",
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P020",
+          "first_name": "Lowell",
+          "last_name": "Abernathy",
+          "dob": "1964-04-12",
+          "address": "8318 O'Hara Lock Apt. 280",
+          "phone_number": "+263 8792 389897",
+          "email": "Delores.Kreiger@gmail.com",
+          "ward": "B",
+          "room_number": "558",
+          "bed_number": "G5",
+          "admission_date": "2025-02-04",
+          "discharge_date": "2025-02-25",
+          "medical_history": [
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P021",
+          "first_name": "Mac",
+          "last_name": "Lockman",
+          "dob": "1982-04-05",
+          "address": "452 Cormier Rapid Apt. 608",
+          "phone_number": "+263 8212 863024",
+          "email": "Dion49@hotmail.com",
+          "ward": "B",
+          "room_number": "234",
+          "bed_number": "A8",
+          "admission_date": "2025-02-10",
+          "discharge_date": "2025-05-23",
+          "medical_history": [
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P022",
+          "first_name": "Joanny",
+          "last_name": "Sauer",
+          "dob": "1966-11-04",
+          "address": "53756 The Orchard Suite 355",
+          "phone_number": "+263 8185 147643",
+          "email": "Howard65@hotmail.com",
+          "ward": "A",
+          "room_number": "127",
+          "bed_number": "F9",
+          "admission_date": "2025-02-02",
+          "discharge_date": "2025-03-19",
+          "medical_history": [
+              "Anxiety",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P023",
+          "first_name": "Dortha",
+          "last_name": "Kreiger",
+          "dob": "1986-03-22",
+          "address": "5845 West End Suite 140",
+          "phone_number": "+263 8524 442762",
+          "email": "Norberto38@yahoo.com",
+          "ward": "C",
+          "room_number": "503",
+          "bed_number": "C5",
+          "admission_date": "2025-03-04",
+          "discharge_date": "2025-04-11",
+          "medical_history": [
+              "COPD"
+          ]
+      },
+      {
+          "patient_id": "P024",
+          "first_name": "Dahlia",
+          "last_name": "Carroll",
+          "dob": "1974-02-22",
+          "address": "274 7th Avenue Apt. 176",
+          "phone_number": "+263 8649 692372",
+          "email": "Jose_Stiedemann40@gmail.com",
+          "ward": "F",
+          "room_number": "262",
+          "bed_number": "C7",
+          "admission_date": "2025-02-17",
+          "discharge_date": "2025-03-20",
+          "medical_history": [
+              "Hypertension",
+              "Anemia",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P025",
+          "first_name": "Walton",
+          "last_name": "Swift-Parisian",
+          "dob": "1990-12-20",
+          "address": "944 Silver Street Apt. 537",
+          "phone_number": "+263 8094 953797",
+          "email": "Glennie38@hotmail.com",
+          "ward": "D",
+          "room_number": "587",
+          "bed_number": "C6",
+          "admission_date": "2025-04-10",
+          "discharge_date": "2025-04-15",
+          "medical_history": [
+              "Diabetes",
+              "Anemia",
+              "Arthritis"
+          ]
+      },
+      {
+          "patient_id": "P026",
+          "first_name": "Preston",
+          "last_name": "Hackett",
+          "dob": "1987-07-27",
+          "address": "279 Rau Cliffs Apt. 171",
+          "phone_number": "+263 8755 685721",
+          "email": "Dahlia_Brown60@hotmail.com",
+          "ward": "H",
+          "room_number": "473",
+          "bed_number": "D1",
+          "admission_date": "2025-02-01",
+          "discharge_date": "2025-03-23",
+          "medical_history": [
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P027",
+          "first_name": "Damian",
+          "last_name": "Hoeger",
+          "dob": "1985-12-01",
+          "address": "70495 E Washington Street Apt. 737",
+          "phone_number": "+263 8383 684085",
+          "email": "Mellie.Tromp@gmail.com",
+          "ward": "A",
+          "room_number": "217",
+          "bed_number": "B2",
+          "admission_date": "2025-04-26",
+          "discharge_date": "2025-08-14",
+          "medical_history": [
+              "Depression",
+              "Anemia",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P028",
+          "first_name": "Cara",
+          "last_name": "Bradtke",
+          "dob": "1959-12-29",
+          "address": "24229 Hammes Hill Suite 341",
+          "phone_number": "+263 8332 709099",
+          "email": "Audreanne.Ritchie50@yahoo.com",
+          "ward": "F",
+          "room_number": "150",
+          "bed_number": "G6",
+          "admission_date": "2025-04-08",
+          "discharge_date": "2025-07-20",
+          "medical_history": [
+              "Hypertension",
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P029",
+          "first_name": "Golda",
+          "last_name": "Koch",
+          "dob": "1987-01-07",
+          "address": "898 Elmira Divide Apt. 161",
+          "phone_number": "+263 8081 447419",
+          "email": "Katelyn_Prosacco@yahoo.com",
+          "ward": "C",
+          "room_number": "357",
+          "bed_number": "F2",
+          "admission_date": "2025-02-20",
+          "discharge_date": "2025-05-26",
+          "medical_history": [
+              "Osteoporosis",
+              "COPD"
+          ]
+      },
+      {
+          "patient_id": "P030",
+          "first_name": "Guadalupe",
+          "last_name": "Turcotte",
+          "dob": "1949-07-15",
+          "address": "7789 Streich Estate Apt. 295",
+          "phone_number": "+263 8442 852121",
+          "email": "Destini_Hoeger14@hotmail.com",
+          "ward": "B",
+          "room_number": "372",
+          "bed_number": "E1",
+          "admission_date": "2025-03-16",
+          "discharge_date": "2025-04-18",
+          "medical_history": [
+              "Epilepsy",
+              "Anemia",
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P031",
+          "first_name": "Opal",
+          "last_name": "Maggio",
+          "dob": "1990-01-22",
+          "address": "4097 Peggie Forest Apt. 223",
+          "phone_number": "+263 8959 777606",
+          "email": "Candice57@gmail.com",
+          "ward": "D",
+          "room_number": "524",
+          "bed_number": "H1",
+          "admission_date": "2025-05-18",
+          "discharge_date": "2025-07-31",
+          "medical_history": [
+              "Heart Disease",
+              "Osteoporosis",
+              "Epilepsy"
+          ]
+      },
+      {
+          "patient_id": "P032",
+          "first_name": "Laverna",
+          "last_name": "Lang",
+          "dob": "1997-06-14",
+          "address": "807 Rickey Cliff Suite 274",
+          "phone_number": "+263 8512 665570",
+          "email": "Gustave_Kirlin@hotmail.com",
+          "ward": "H",
+          "room_number": "273",
+          "bed_number": "F4",
+          "admission_date": "2025-05-13",
+          "discharge_date": "2025-08-02",
+          "medical_history": [
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P033",
+          "first_name": "Brielle",
+          "last_name": "Schamberger",
+          "dob": "1997-04-02",
+          "address": "602 Edison View Suite 173",
+          "phone_number": "+263 8912 821915",
+          "email": "Dallas98@yahoo.com",
+          "ward": "C",
+          "room_number": "578",
+          "bed_number": "C3",
+          "admission_date": "2025-03-23",
+          "discharge_date": "2025-04-14",
+          "medical_history": [
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P034",
+          "first_name": "Alison",
+          "last_name": "Stracke",
+          "dob": "1982-08-14",
+          "address": "22294 Walter Court Suite 332",
+          "phone_number": "+263 8247 878800",
+          "email": "Eladio.Howe78@yahoo.com",
+          "ward": "B",
+          "room_number": "207",
+          "bed_number": "B3",
+          "admission_date": "2025-03-10",
+          "discharge_date": "2025-04-23",
+          "medical_history": [
+              "Diabetes",
+              "Depression",
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P035",
+          "first_name": "Johann",
+          "last_name": "Weber-Marquardt",
+          "dob": "1956-07-08",
+          "address": "8159 Samson Views Apt. 181",
+          "phone_number": "+263 8824 371332",
+          "email": "Mikayla.Osinski15@gmail.com",
+          "ward": "C",
+          "room_number": "316",
+          "bed_number": "H2",
+          "admission_date": "2025-05-02",
+          "discharge_date": "2025-06-10",
+          "medical_history": [
+              "Anxiety",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P036",
+          "first_name": "Stuart",
+          "last_name": "Corkery",
+          "dob": "1972-04-23",
+          "address": "8767 Weimann Circle Apt. 290",
+          "phone_number": "+263 8424 538796",
+          "email": "Erik_Halvorson@gmail.com",
+          "ward": "H",
+          "room_number": "342",
+          "bed_number": "F5",
+          "admission_date": "2025-05-03",
+          "discharge_date": "2025-07-06",
+          "medical_history": [
+              "Kidney Disease",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P037",
+          "first_name": "Alessandra",
+          "last_name": "Howe",
+          "dob": "1968-09-26",
+          "address": "2172 Waelchi Isle Apt. 712",
+          "phone_number": "+263 8613 854776",
+          "email": "Elinor_Kiehn23@gmail.com",
+          "ward": "F",
+          "room_number": "428",
+          "bed_number": "H6",
+          "admission_date": "2025-03-30",
+          "discharge_date": "2025-06-12",
+          "medical_history": [
+              "Heart Disease",
+              "Thyroid Disorder",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P038",
+          "first_name": "Mustafa",
+          "last_name": "Johnston",
+          "dob": "1977-10-21",
+          "address": "7558 Felton Mills Suite 254",
+          "phone_number": "+263 8947 651065",
+          "email": "River.Macejkovic@hotmail.com",
+          "ward": "H",
+          "room_number": "481",
+          "bed_number": "B2",
+          "admission_date": "2025-02-20",
+          "discharge_date": "2025-05-31",
+          "medical_history": [
+              "Hypertension",
+              "Osteoporosis",
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P039",
+          "first_name": "Kadin",
+          "last_name": "Gleichner",
+          "dob": "1957-04-24",
+          "address": "696 Rippin Point Apt. 213",
+          "phone_number": "+263 8641 521623",
+          "email": "Danika71@hotmail.com",
+          "ward": "B",
+          "room_number": "106",
+          "bed_number": "C4",
+          "admission_date": "2025-04-06",
+          "discharge_date": "2025-06-19",
+          "medical_history": [
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P040",
+          "first_name": "Francesca",
+          "last_name": "Kunze",
+          "dob": "1965-07-06",
+          "address": "659 Green Drives Apt. 717",
+          "phone_number": "+263 8208 917027",
+          "email": "Estella.Reichel35@gmail.com",
+          "ward": "G",
+          "room_number": "355",
+          "bed_number": "D3",
+          "admission_date": "2025-02-23",
+          "discharge_date": "2025-05-16",
+          "medical_history": [
+              "COPD",
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P041",
+          "first_name": "Quinten",
+          "last_name": "Armstrong",
+          "dob": "1991-10-25",
+          "address": "14722 S Walnut Street Apt. 441",
+          "phone_number": "+263 8455 806881",
+          "email": "Grant0@gmail.com",
+          "ward": "F",
+          "room_number": "471",
+          "bed_number": "G1",
+          "admission_date": "2025-05-23",
+          "discharge_date": "2025-08-08",
+          "medical_history": [
+              "Kidney Disease",
+              "Epilepsy"
+          ]
+      },
+      {
+          "patient_id": "P042",
+          "first_name": "Rowena",
+          "last_name": "Rau",
+          "dob": "1956-03-19",
+          "address": "18145 Milton Road Apt. 515",
+          "phone_number": "+263 8343 729215",
+          "email": "Tony.Bergnaum14@hotmail.com",
+          "ward": "G",
+          "room_number": "321",
+          "bed_number": "A8",
+          "admission_date": "2025-03-18",
+          "discharge_date": "2025-04-12",
+          "medical_history": [
+              "Arthritis",
+              "Osteoporosis"
+          ]
+      },
+      {
+          "patient_id": "P043",
+          "first_name": "Rhiannon",
+          "last_name": "D'Amore",
+          "dob": "1970-09-04",
+          "address": "457 Manor Way Apt. 697",
+          "phone_number": "+263 8536 984763",
+          "email": "Julia_Nicolas@yahoo.com",
+          "ward": "B",
+          "room_number": "291",
+          "bed_number": "H6",
+          "admission_date": "2025-03-22",
+          "discharge_date": "2025-04-26",
+          "medical_history": [
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P044",
+          "first_name": "Tristin",
+          "last_name": "Reilly",
+          "dob": "1988-01-20",
+          "address": "479 S 10th Street Apt. 585",
+          "phone_number": "+263 8159 791742",
+          "email": "Federico96@hotmail.com",
+          "ward": "D",
+          "room_number": "208",
+          "bed_number": "G7",
+          "admission_date": "2025-02-10",
+          "discharge_date": "2025-04-18",
+          "medical_history": [
+              "Asthma",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P045",
+          "first_name": "Hosea",
+          "last_name": "Kertzmann",
+          "dob": "1969-08-29",
+          "address": "91777 N Division Street Suite 721",
+          "phone_number": "+263 8475 889994",
+          "email": "Phyllis.Blanda55@gmail.com",
+          "ward": "E",
+          "room_number": "456",
+          "bed_number": "F8",
+          "admission_date": "2025-05-12",
+          "discharge_date": "2025-05-30",
+          "medical_history": [
+              "Anxiety",
+              "Heart Disease"
+          ]
+      },
+      {
+          "patient_id": "P046",
+          "first_name": "Alexis",
+          "last_name": "Strosin",
+          "dob": "1997-04-28",
+          "address": "9849 Maribel Turnpike Apt. 882",
+          "phone_number": "+263 8784 267543",
+          "email": "Aubree37@yahoo.com",
+          "ward": "A",
+          "room_number": "275",
+          "bed_number": "B2",
+          "admission_date": "2025-01-29",
+          "discharge_date": "2025-05-04",
+          "medical_history": [
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P047",
+          "first_name": "Madge",
+          "last_name": "Murazik",
+          "dob": "1981-05-03",
+          "address": "20945 Second Avenue Suite 754",
+          "phone_number": "+263 8685 344125",
+          "email": "Oren46@gmail.com",
+          "ward": "A",
+          "room_number": "189",
+          "bed_number": "H5",
+          "admission_date": "2025-04-10",
+          "discharge_date": "2025-07-29",
+          "medical_history": [
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P048",
+          "first_name": "Kiana",
+          "last_name": "Schuster-Murazik",
+          "dob": "1962-07-15",
+          "address": "85620 Edmond Centers Apt. 869",
+          "phone_number": "+263 8312 666612",
+          "email": "Gilberto.Kihn@yahoo.com",
+          "ward": "A",
+          "room_number": "585",
+          "bed_number": "D8",
+          "admission_date": "2025-04-06",
+          "discharge_date": "2025-05-23",
+          "medical_history": [
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P049",
+          "first_name": "Beth",
+          "last_name": "Veum",
+          "dob": "1989-10-14",
+          "address": "15379 Magnus Fords Apt. 607",
+          "phone_number": "+263 8353 913984",
+          "email": "Esta18@yahoo.com",
+          "ward": "G",
+          "room_number": "120",
+          "bed_number": "H8",
+          "admission_date": "2025-02-28",
+          "discharge_date": "2025-04-15",
+          "medical_history": [
+              "Epilepsy",
+              "Hypertension",
+              "Kidney Disease"
+          ]
+      },
+      {
+          "patient_id": "P050",
+          "first_name": "Noemie",
+          "last_name": "Lowe",
+          "dob": "1974-02-19",
+          "address": "323 Waelchi Parkway Suite 548",
+          "phone_number": "+263 8928 300606",
+          "email": "Lucius43@hotmail.com",
+          "ward": "B",
+          "room_number": "189",
+          "bed_number": "A9",
+          "admission_date": "2025-02-10",
+          "discharge_date": "2025-06-09",
+          "medical_history": [
+              "COPD",
+              "Migraines",
+              "Arthritis"
+          ]
+      },
+      {
+          "patient_id": "P051",
+          "first_name": "Lupe",
+          "last_name": "Legros-Herman",
+          "dob": "1973-05-19",
+          "address": "570 O'Reilly Mews Apt. 640",
+          "phone_number": "+263 8776 934438",
+          "email": "Jarod.Dicki45@gmail.com",
+          "ward": "E",
+          "room_number": "170",
+          "bed_number": "F4",
+          "admission_date": "2025-02-10",
+          "discharge_date": "2025-03-20",
+          "medical_history": [
+              "Allergies",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P052",
+          "first_name": "Roderick",
+          "last_name": "Lemke",
+          "dob": "1978-12-27",
+          "address": "909 St Andrew's Road Suite 752",
+          "phone_number": "+263 8003 752731",
+          "email": "Deja31@gmail.com",
+          "ward": "G",
+          "room_number": "376",
+          "bed_number": "B9",
+          "admission_date": "2025-04-22",
+          "discharge_date": "2025-07-16",
+          "medical_history": [
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P053",
+          "first_name": "Cristobal",
+          "last_name": "Ondricka",
+          "dob": "1965-09-10",
+          "address": "571 Gibson Port Apt. 914",
+          "phone_number": "+263 8102 697533",
+          "email": "Carrie.Lynch31@hotmail.com",
+          "ward": "C",
+          "room_number": "519",
+          "bed_number": "E4",
+          "admission_date": "2025-03-05",
+          "discharge_date": "2025-06-17",
+          "medical_history": [
+              "Kidney Disease",
+              "Allergies",
+              "Asthma"
+          ]
+      },
+      {
+          "patient_id": "P054",
+          "first_name": "Edythe",
+          "last_name": "Turner",
+          "dob": "1974-03-08",
+          "address": "7763 Laury Lake Apt. 440",
+          "phone_number": "+263 8300 552859",
+          "email": "Flo.Kemmer82@yahoo.com",
+          "ward": "E",
+          "room_number": "352",
+          "bed_number": "F8",
+          "admission_date": "2025-04-16",
+          "discharge_date": "2025-05-30",
+          "medical_history": [
+              "Allergies",
+              "Arthritis",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P055",
+          "first_name": "Christina",
+          "last_name": "Goyette",
+          "dob": "1977-06-06",
+          "address": "747 16th Street Apt. 653",
+          "phone_number": "+263 8239 272140",
+          "email": "Ignacio.Connelly24@yahoo.com",
+          "ward": "H",
+          "room_number": "416",
+          "bed_number": "B4",
+          "admission_date": "2025-03-20",
+          "discharge_date": "2025-06-14",
+          "medical_history": [
+              "Heart Disease",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P056",
+          "first_name": "Jamison",
+          "last_name": "Ferry",
+          "dob": "1977-10-18",
+          "address": "567 Austin Vista Suite 568",
+          "phone_number": "+263 8290 396598",
+          "email": "Maci.Grady81@gmail.com",
+          "ward": "H",
+          "room_number": "519",
+          "bed_number": "A8",
+          "admission_date": "2025-04-25",
+          "discharge_date": "2025-05-05",
+          "medical_history": [
+              "Epilepsy",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P057",
+          "first_name": "Noemi",
+          "last_name": "Mills",
+          "dob": "1992-11-01",
+          "address": "564 Runolfsson Parkway Apt. 401",
+          "phone_number": "+263 8792 308942",
+          "email": "Tremayne.Effertz@gmail.com",
+          "ward": "H",
+          "room_number": "513",
+          "bed_number": "F9",
+          "admission_date": "2025-02-18",
+          "discharge_date": "2025-02-24",
+          "medical_history": [
+              "Asthma",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P058",
+          "first_name": "Isidro",
+          "last_name": "Breitenberg",
+          "dob": "1962-06-09",
+          "address": "82016 Keely Street Apt. 143",
+          "phone_number": "+263 8515 750222",
+          "email": "Lacey44@gmail.com",
+          "ward": "H",
+          "room_number": "336",
+          "bed_number": "B5",
+          "admission_date": "2025-03-26",
+          "discharge_date": "2025-06-22",
+          "medical_history": [
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P059",
+          "first_name": "Tyrese",
+          "last_name": "Reichel",
+          "dob": "1977-04-14",
+          "address": "42651 Church Road Suite 578",
+          "phone_number": "+263 8758 373669",
+          "email": "Derek.Emmerich@gmail.com",
+          "ward": "G",
+          "room_number": "495",
+          "bed_number": "H5",
+          "admission_date": "2025-03-03",
+          "discharge_date": "2025-03-16",
+          "medical_history": [
+              "Depression",
+              "Arthritis"
+          ]
+      },
+      {
+          "patient_id": "P060",
+          "first_name": "Clinton",
+          "last_name": "Macejkovic",
+          "dob": "1988-12-06",
+          "address": "3619 Fiona Mission Suite 257",
+          "phone_number": "+263 8275 277143",
+          "email": "Nola13@gmail.com",
+          "ward": "B",
+          "room_number": "525",
+          "bed_number": "C2",
+          "admission_date": "2025-02-28",
+          "discharge_date": "2025-03-12",
+          "medical_history": [
+              "Hypertension",
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P061",
+          "first_name": "Enos",
+          "last_name": "Yost",
+          "dob": "1979-02-16",
+          "address": "646 Doyle Wall Apt. 153",
+          "phone_number": "+263 8728 640701",
+          "email": "Amy.Goodwin@yahoo.com",
+          "ward": "F",
+          "room_number": "142",
+          "bed_number": "G1",
+          "admission_date": "2025-03-31",
+          "discharge_date": "2025-06-26",
+          "medical_history": [
+              "Migraines",
+              "Depression",
+              "Asthma"
+          ]
+      },
+      {
+          "patient_id": "P062",
+          "first_name": "Winfield",
+          "last_name": "Predovic",
+          "dob": "1994-12-03",
+          "address": "914 Chestnut Drive Suite 699",
+          "phone_number": "+263 8962 242034",
+          "email": "Ricky.Roob@yahoo.com",
+          "ward": "E",
+          "room_number": "427",
+          "bed_number": "D7",
+          "admission_date": "2025-02-28",
+          "discharge_date": "2025-05-05",
+          "medical_history": [
+              "Anxiety",
+              "Epilepsy",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P063",
+          "first_name": "Althea",
+          "last_name": "Pacocha",
+          "dob": "1963-08-05",
+          "address": "575 Paige Squares Suite 259",
+          "phone_number": "+263 8843 983659",
+          "email": "Dedrick_Bauch1@gmail.com",
+          "ward": "A",
+          "room_number": "594",
+          "bed_number": "E3",
+          "admission_date": "2025-05-14",
+          "discharge_date": "2025-06-21",
+          "medical_history": [
+              "Osteoporosis",
+              "Diabetes",
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P064",
+          "first_name": "Imelda",
+          "last_name": "Bode-Ullrich",
+          "dob": "1963-01-04",
+          "address": "47918 Rosenbaum Overpass Apt. 430",
+          "phone_number": "+263 8219 380717",
+          "email": "Dominique.Hessel@hotmail.com",
+          "ward": "B",
+          "room_number": "187",
+          "bed_number": "C1",
+          "admission_date": "2025-04-23",
+          "discharge_date": "2025-07-21",
+          "medical_history": [
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P065",
+          "first_name": "Lizzie",
+          "last_name": "Ernser",
+          "dob": "1950-05-19",
+          "address": "50811 Dillon Ferry Suite 119",
+          "phone_number": "+263 8478 929879",
+          "email": "Elbert52@yahoo.com",
+          "ward": "H",
+          "room_number": "457",
+          "bed_number": "H4",
+          "admission_date": "2025-04-07",
+          "discharge_date": "2025-05-03",
+          "medical_history": [
+              "Thyroid Disorder",
+              "Arthritis",
+              "Osteoporosis"
+          ]
+      },
+      {
+          "patient_id": "P066",
+          "first_name": "Laurie",
+          "last_name": "Schuppe-Corkery",
+          "dob": "1965-01-29",
+          "address": "23878 4th Avenue Apt. 935",
+          "phone_number": "+263 8130 990413",
+          "email": "Lupe62@gmail.com",
+          "ward": "F",
+          "room_number": "271",
+          "bed_number": "D3",
+          "admission_date": "2025-05-05",
+          "discharge_date": "2025-08-12",
+          "medical_history": [
+              "Allergies",
+              "Epilepsy"
+          ]
+      },
+      {
+          "patient_id": "P067",
+          "first_name": "Cecilia",
+          "last_name": "Heathcote",
+          "dob": "1957-07-13",
+          "address": "436 Broadway Avenue Apt. 401",
+          "phone_number": "+263 8147 102115",
+          "email": "Matteo68@yahoo.com",
+          "ward": "F",
+          "room_number": "272",
+          "bed_number": "B4",
+          "admission_date": "2025-05-11",
+          "discharge_date": "2025-05-27",
+          "medical_history": [
+              "Heart Disease",
+              "Arthritis",
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P068",
+          "first_name": "Lucius",
+          "last_name": "Kiehn",
+          "dob": "1999-02-05",
+          "address": "40953 Arianna Lodge Suite 757",
+          "phone_number": "+263 8448 755998",
+          "email": "Lisa_Hansen10@hotmail.com",
+          "ward": "A",
+          "room_number": "303",
+          "bed_number": "H7",
+          "admission_date": "2025-02-05",
+          "discharge_date": "2025-04-07",
+          "medical_history": [
+              "Asthma",
+              "Thyroid Disorder",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P069",
+          "first_name": "Darwin",
+          "last_name": "Schaefer",
+          "dob": "1949-11-16",
+          "address": "51455 Taurean Loaf Apt. 156",
+          "phone_number": "+263 8325 883722",
+          "email": "Alexandro_Walker-Stamm@yahoo.com",
+          "ward": "H",
+          "room_number": "167",
+          "bed_number": "H3",
+          "admission_date": "2025-02-17",
+          "discharge_date": "2025-05-27",
+          "medical_history": [
+              "Osteoporosis"
+          ]
+      },
+      {
+          "patient_id": "P070",
+          "first_name": "Jasen",
+          "last_name": "Hammes",
+          "dob": "1991-10-20",
+          "address": "90574 Mosciski Islands Suite 649",
+          "phone_number": "+263 8895 930818",
+          "email": "Ona.Waelchi@gmail.com",
+          "ward": "F",
+          "room_number": "556",
+          "bed_number": "H7",
+          "admission_date": "2025-04-11",
+          "discharge_date": "2025-06-06",
+          "medical_history": [
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P071",
+          "first_name": "Zion",
+          "last_name": "Kunde",
+          "dob": "1987-05-15",
+          "address": "3014 Leuschke Rapids Suite 859",
+          "phone_number": "+263 8684 438548",
+          "email": "Kallie70@hotmail.com",
+          "ward": "B",
+          "room_number": "280",
+          "bed_number": "H2",
+          "admission_date": "2025-02-24",
+          "discharge_date": "2025-03-09",
+          "medical_history": [
+              "Heart Disease",
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P072",
+          "first_name": "Lavada",
+          "last_name": "Lang",
+          "dob": "1974-11-23",
+          "address": "151 Union Avenue Apt. 678",
+          "phone_number": "+263 8302 119180",
+          "email": "Chadrick_Erdman@hotmail.com",
+          "ward": "E",
+          "room_number": "479",
+          "bed_number": "F2",
+          "admission_date": "2025-02-22",
+          "discharge_date": "2025-04-21",
+          "medical_history": [
+              "COPD",
+              "Heart Disease"
+          ]
+      },
+      {
+          "patient_id": "P073",
+          "first_name": "Alta",
+          "last_name": "Langworth",
+          "dob": "1989-10-30",
+          "address": "15801 Legros Burg Suite 648",
+          "phone_number": "+263 8303 534185",
+          "email": "Ressie.Durgan@hotmail.com",
+          "ward": "F",
+          "room_number": "509",
+          "bed_number": "F3",
+          "admission_date": "2025-05-06",
+          "discharge_date": "2025-06-16",
+          "medical_history": [
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P074",
+          "first_name": "Hester",
+          "last_name": "Wilderman",
+          "dob": "1986-01-28",
+          "address": "947 The Limes Suite 729",
+          "phone_number": "+263 8995 103031",
+          "email": "Okey_Gerlach23@hotmail.com",
+          "ward": "F",
+          "room_number": "408",
+          "bed_number": "B6",
+          "admission_date": "2025-05-24",
+          "discharge_date": "2025-07-05",
+          "medical_history": [
+              "Osteoporosis",
+              "Asthma"
+          ]
+      },
+      {
+          "patient_id": "P075",
+          "first_name": "Joanny",
+          "last_name": "Hermann",
+          "dob": "1973-02-20",
+          "address": "321 The Oval Apt. 888",
+          "phone_number": "+263 8934 797572",
+          "email": "Brooke_Grimes68@yahoo.com",
+          "ward": "E",
+          "room_number": "534",
+          "bed_number": "H8",
+          "admission_date": "2025-03-04",
+          "discharge_date": "2025-03-30",
+          "medical_history": [
+              "Allergies",
+              "Heart Disease"
+          ]
+      },
+      {
+          "patient_id": "P076",
+          "first_name": "Claudia",
+          "last_name": "Lockman",
+          "dob": "1961-04-02",
+          "address": "3871 College Street Apt. 959",
+          "phone_number": "+263 8921 321538",
+          "email": "Charity_Turcotte@hotmail.com",
+          "ward": "G",
+          "room_number": "238",
+          "bed_number": "F9",
+          "admission_date": "2025-04-02",
+          "discharge_date": "2025-04-29",
+          "medical_history": [
+              "Anxiety",
+              "Epilepsy",
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P077",
+          "first_name": "Alford",
+          "last_name": "Quitzon",
+          "dob": "1981-02-11",
+          "address": "968 Volkman Unions Apt. 866",
+          "phone_number": "+263 8679 431690",
+          "email": "Austen.Metz55@hotmail.com",
+          "ward": "B",
+          "room_number": "314",
+          "bed_number": "D8",
+          "admission_date": "2025-02-25",
+          "discharge_date": "2025-06-05",
+          "medical_history": [
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P078",
+          "first_name": "Jovani",
+          "last_name": "Mueller",
+          "dob": "1962-02-06",
+          "address": "90013 Heller Ridges Apt. 649",
+          "phone_number": "+263 8948 624678",
+          "email": "Raleigh32@yahoo.com",
+          "ward": "F",
+          "room_number": "465",
+          "bed_number": "H3",
+          "admission_date": "2025-04-05",
+          "discharge_date": "2025-04-23",
+          "medical_history": [
+              "Arthritis",
+              "Hypertension",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P079",
+          "first_name": "Garth",
+          "last_name": "Baumbach",
+          "dob": "1963-11-14",
+          "address": "50859 S Division Street Apt. 155",
+          "phone_number": "+263 8542 515506",
+          "email": "Madalyn49@yahoo.com",
+          "ward": "C",
+          "room_number": "133",
+          "bed_number": "H3",
+          "admission_date": "2025-05-13",
+          "discharge_date": "2025-05-21",
+          "medical_history": [
+              "Anemia",
+              "COPD",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P080",
+          "first_name": "Moriah",
+          "last_name": "Koss",
+          "dob": "1954-02-12",
+          "address": "599 Jackson Avenue Suite 680",
+          "phone_number": "+263 8196 970805",
+          "email": "Lyla_Willms25@gmail.com",
+          "ward": "A",
+          "room_number": "389",
+          "bed_number": "F1",
+          "admission_date": "2025-01-30",
+          "discharge_date": "2025-03-12",
+          "medical_history": [
+              "Depression",
+              "Hypertension",
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P081",
+          "first_name": "Eldridge",
+          "last_name": "Reinger",
+          "dob": "1969-10-24",
+          "address": "905 Sheldon Wells Suite 558",
+          "phone_number": "+263 8951 445177",
+          "email": "Amely83@gmail.com",
+          "ward": "D",
+          "room_number": "187",
+          "bed_number": "B4",
+          "admission_date": "2025-03-19",
+          "discharge_date": "2025-04-30",
+          "medical_history": [
+              "Diabetes",
+              "Depression",
+              "Thyroid Disorder"
+          ]
+      },
+      {
+          "patient_id": "P082",
+          "first_name": "Garret",
+          "last_name": "Botsford",
+          "dob": "1996-02-10",
+          "address": "7986 Parisian View Apt. 463",
+          "phone_number": "+263 8679 403189",
+          "email": "Arely_Howe60@yahoo.com",
+          "ward": "H",
+          "room_number": "272",
+          "bed_number": "G3",
+          "admission_date": "2025-02-12",
+          "discharge_date": "2025-05-19",
+          "medical_history": [
+              "Arthritis",
+              "Depression",
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P083",
+          "first_name": "Alexandrine",
+          "last_name": "Pollich",
+          "dob": "1959-06-14",
+          "address": "1068 W Walnut Street Suite 129",
+          "phone_number": "+263 8777 178580",
+          "email": "Tabitha25@yahoo.com",
+          "ward": "E",
+          "room_number": "209",
+          "bed_number": "H1",
+          "admission_date": "2025-05-10",
+          "discharge_date": "2025-06-24",
+          "medical_history": [
+              "Heart Disease",
+              "Osteoporosis",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P084",
+          "first_name": "Hyman",
+          "last_name": "Moen-Kirlin",
+          "dob": "1964-11-22",
+          "address": "76681 Bay Street Suite 516",
+          "phone_number": "+263 8781 485832",
+          "email": "Elinore.Feest@yahoo.com",
+          "ward": "A",
+          "room_number": "255",
+          "bed_number": "E5",
+          "admission_date": "2025-04-09",
+          "discharge_date": "2025-07-18",
+          "medical_history": [
+              "Hypertension",
+              "COPD"
+          ]
+      },
+      {
+          "patient_id": "P085",
+          "first_name": "Myron",
+          "last_name": "Leffler",
+          "dob": "1999-10-15",
+          "address": "1151 Johns Divide Suite 299",
+          "phone_number": "+263 8756 274541",
+          "email": "Ernestina27@gmail.com",
+          "ward": "C",
+          "room_number": "578",
+          "bed_number": "D3",
+          "admission_date": "2025-04-08",
+          "discharge_date": "2025-07-19",
+          "medical_history": [
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P086",
+          "first_name": "Hosea",
+          "last_name": "Bosco",
+          "dob": "1979-11-20",
+          "address": "7180 Lincoln Road Apt. 127",
+          "phone_number": "+263 8086 100211",
+          "email": "Ona65@yahoo.com",
+          "ward": "D",
+          "room_number": "263",
+          "bed_number": "A1",
+          "admission_date": "2025-05-04",
+          "discharge_date": "2025-08-20",
+          "medical_history": [
+              "Depression",
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P087",
+          "first_name": "Michel",
+          "last_name": "Huels",
+          "dob": "1971-02-22",
+          "address": "89413 Kessler Mount Apt. 348",
+          "phone_number": "+263 8903 878525",
+          "email": "Dejuan.Herman@yahoo.com",
+          "ward": "D",
+          "room_number": "230",
+          "bed_number": "C7",
+          "admission_date": "2025-03-31",
+          "discharge_date": "2025-06-11",
+          "medical_history": [
+              "Thyroid Disorder",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P088",
+          "first_name": "Trevor",
+          "last_name": "Keebler",
+          "dob": "1951-11-16",
+          "address": "4350 Verla Wall Suite 987",
+          "phone_number": "+263 8339 142441",
+          "email": "Dax_Rath@yahoo.com",
+          "ward": "H",
+          "room_number": "208",
+          "bed_number": "C2",
+          "admission_date": "2025-05-22",
+          "discharge_date": "2025-08-18",
+          "medical_history": [
+              "Depression",
+              "Anxiety"
+          ]
+      },
+      {
+          "patient_id": "P089",
+          "first_name": "Madyson",
+          "last_name": "Stoltenberg-Sanford",
+          "dob": "1952-08-11",
+          "address": "5149 Ada Prairie Suite 954",
+          "phone_number": "+263 8575 814292",
+          "email": "Hayden_Runte@yahoo.com",
+          "ward": "D",
+          "room_number": "191",
+          "bed_number": "C1",
+          "admission_date": "2025-03-05",
+          "discharge_date": "2025-06-04",
+          "medical_history": [
+              "Epilepsy",
+              "Arthritis"
+          ]
+      },
+      {
+          "patient_id": "P090",
+          "first_name": "Emmy",
+          "last_name": "Greenholt",
+          "dob": "1949-07-31",
+          "address": "2645 Darby Views Apt. 220",
+          "phone_number": "+263 8357 563300",
+          "email": "Syble31@hotmail.com",
+          "ward": "G",
+          "room_number": "264",
+          "bed_number": "B3",
+          "admission_date": "2025-02-02",
+          "discharge_date": "2025-04-11",
+          "medical_history": [
+              "Allergies",
+              "Asthma",
+              "Osteoporosis"
+          ]
+      },
+      {
+          "patient_id": "P091",
+          "first_name": "Audreanne",
+          "last_name": "Harris",
+          "dob": "1976-12-31",
+          "address": "195 Post Road Suite 900",
+          "phone_number": "+263 8105 607288",
+          "email": "Rebecca.Boehm16@hotmail.com",
+          "ward": "B",
+          "room_number": "383",
+          "bed_number": "H5",
+          "admission_date": "2025-04-02",
+          "discharge_date": "2025-06-27",
+          "medical_history": [
+              "Heart Disease",
+              "Migraines"
+          ]
+      },
+      {
+          "patient_id": "P092",
+          "first_name": "Jayden",
+          "last_name": "Stark",
+          "dob": "1997-04-19",
+          "address": "122 Glebe Close Apt. 244",
+          "phone_number": "+263 8255 697463",
+          "email": "Shirley.Dickens-Johnston@yahoo.com",
+          "ward": "A",
+          "room_number": "178",
+          "bed_number": "A8",
+          "admission_date": "2025-02-12",
+          "discharge_date": "2025-02-26",
+          "medical_history": [
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P093",
+          "first_name": "Tyson",
+          "last_name": "Schuppe",
+          "dob": "1961-11-29",
+          "address": "1504 Beatty Bridge Apt. 834",
+          "phone_number": "+263 8284 469524",
+          "email": "Pamela_Ratke82@gmail.com",
+          "ward": "A",
+          "room_number": "448",
+          "bed_number": "D7",
+          "admission_date": "2025-05-24",
+          "discharge_date": "2025-06-13",
+          "medical_history": [
+              "Diabetes",
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P094",
+          "first_name": "Brielle",
+          "last_name": "Bauch",
+          "dob": "1968-09-05",
+          "address": "56987 Claire Points Apt. 166",
+          "phone_number": "+263 8589 374190",
+          "email": "Ethel_Batz-Nienow75@yahoo.com",
+          "ward": "F",
+          "room_number": "444",
+          "bed_number": "H1",
+          "admission_date": "2025-03-13",
+          "discharge_date": "2025-06-03",
+          "medical_history": [
+              "Diabetes"
+          ]
+      },
+      {
+          "patient_id": "P095",
+          "first_name": "Jadyn",
+          "last_name": "Muller",
+          "dob": "1959-08-31",
+          "address": "410 Leffler Common Suite 606",
+          "phone_number": "+263 8267 524911",
+          "email": "Russ89@hotmail.com",
+          "ward": "G",
+          "room_number": "489",
+          "bed_number": "H5",
+          "admission_date": "2025-04-01",
+          "discharge_date": "2025-07-13",
+          "medical_history": [
+              "Anxiety",
+              "Epilepsy",
+              "Allergies"
+          ]
+      },
+      {
+          "patient_id": "P096",
+          "first_name": "Aileen",
+          "last_name": "O'Kon",
+          "dob": "1961-12-31",
+          "address": "50238 Franey Gardens Apt. 796",
+          "phone_number": "+263 8327 833660",
+          "email": "Hank.Quigley@yahoo.com",
+          "ward": "G",
+          "room_number": "379",
+          "bed_number": "G7",
+          "admission_date": "2025-03-19",
+          "discharge_date": "2025-05-04",
+          "medical_history": [
+              "Asthma",
+              "Allergies",
+              "COPD"
+          ]
+      },
+      {
+          "patient_id": "P097",
+          "first_name": "Samantha",
+          "last_name": "Dietrich",
+          "dob": "1968-06-07",
+          "address": "8757 Titus Pike Suite 865",
+          "phone_number": "+263 8978 846107",
+          "email": "Albertha74@yahoo.com",
+          "ward": "H",
+          "room_number": "347",
+          "bed_number": "G8",
+          "admission_date": "2025-05-04",
+          "discharge_date": "2025-08-18",
+          "medical_history": [
+              "Osteoporosis",
+              "Depression"
+          ]
+      },
+      {
+          "patient_id": "P098",
+          "first_name": "Jamel",
+          "last_name": "Mohr",
+          "dob": "1980-07-19",
+          "address": "273 Frederik Plain Apt. 501",
+          "phone_number": "+263 8576 983997",
+          "email": "Christiana33@gmail.com",
+          "ward": "G",
+          "room_number": "174",
+          "bed_number": "D3",
+          "admission_date": "2025-03-09",
+          "discharge_date": "2025-07-03",
+          "medical_history": [
+              "COPD",
+              "Anemia"
+          ]
+      },
+      {
+          "patient_id": "P099",
+          "first_name": "Imogene",
+          "last_name": "Conroy",
+          "dob": "1968-09-09",
+          "address": "322 Joshuah Lock Apt. 622",
+          "phone_number": "+263 8632 942529",
+          "email": "Jamal40@gmail.com",
+          "ward": "A",
+          "room_number": "577",
+          "bed_number": "C3",
+          "admission_date": "2025-02-01",
+          "discharge_date": "2025-02-19",
+          "medical_history": [
+              "Hypertension"
+          ]
+      },
+      {
+          "patient_id": "P100",
+          "first_name": "Dell",
+          "last_name": "Fadel",
+          "dob": "1998-07-25",
+          "address": "2330 German Avenue Suite 448",
+          "phone_number": "+263 8942 105735",
+          "email": "Kristian.Cremin76@yahoo.com",
+          "ward": "C",
+          "room_number": "205",
+          "bed_number": "D2",
+          "admission_date": "2025-03-10",
+          "discharge_date": "2025-06-01",
+          "medical_history": [
+              "Migraines",
+              "Anemia",
+              "Arthritis"
+          ]
+      }
+  ]
+}
