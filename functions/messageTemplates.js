@@ -35,13 +35,6 @@ const sendWelcomeMessage = async(to) => {
                                 }
                             }, 
                           
-                            {
-                                "type": "reply", 
-                                "reply": {
-                                    "id": "request_admission",
-                                    "title": "Request admission"
-                                }
-                            }, 
                             { 
                                 "type": "reply", 
                                 "reply": {
@@ -295,7 +288,7 @@ const sendAdmissionConfirmation = async(to, admission) => {
                 body: {
                   text: `📋 *Confirm your admission details:*
           
-                        *Name:* ${admission.fullname} 
+                        *Name:* ${admission.firstname} ${admission.lastname}
                         *Gender:* ${admission.gender}
                         *Date of Birth:* ${admission.dob}
                         *Phone:* ${admission.phoneNumber}
