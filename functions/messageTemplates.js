@@ -187,7 +187,7 @@ const sendAppointmentConfirmation = async(to, appointment) => {
                   text: `📋 *Confirm your appointment details:*
           
                         *Name:* ${appointment.fullname}
-                        *ID Number:* ${appointment.idNumber}
+                        *Date of birth:* ${appointment.dateOfBirth}
                         *Phone:* ${appointment.phoneNumber}
                         *Date:* ${appointment.date}
                         *Time:* ${appointment.time}`
@@ -329,6 +329,59 @@ const sendAdmissionConfirmation = async(to, admission) => {
     }
 }
 
+const sendUserDetailsConfirmation = async(to, appointmentUser) => {
+    try {
+         const response = await axios.post(
+            WHATSAPP_API_URL,
+            {
+              messaging_product: "whatsapp",
+              to: to,
+              type: "interactive",
+              interactive: {
+                type: "button",
+                body: {
+                  text: `📋 *Please confirm details if these are your details:*
+          
+                        *Name:* ${appointmentUser.firstName} ${appointmentUser.lastName}                 
+                        *Date of Birth:* ${appointmentUser.dateOfBirth}
+                        *Phone:* ${appointmentUser.phoneNumber}
+                        
+                        `
+                },
+                action: {
+                  buttons: [
+                    {
+                      type: "reply",
+                      reply: {
+                        id: "confirm_user_details",
+                        title: "Confirm"
+                      }
+                    },
+                    {
+                      type: "reply",
+                      reply: {
+                        id: "cancel_user_details",
+                        title: "Cancel"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              headers: {
+                Authorization: `Bearer ${ACCESS_TOKEN}`,
+                "Content-Type": "application/json"
+              }
+            }
+          );
+        
+    } catch (error) {
+        console.log("Error sending confirmation message", error.response?.data || error.message);
+        
+    }
+}
 
 
-module.exports = {sendWelcomeMessage, sendMessage, sendSelectTimeMessage, sendAppointmentConfirmation, sendAdmissionType, sendAdmissionConfirmation};
+
+module.exports = {sendWelcomeMessage, sendMessage, sendSelectTimeMessage, sendAppointmentConfirmation, sendAdmissionType, sendAdmissionConfirmation, sendUserDetailsConfirmation};

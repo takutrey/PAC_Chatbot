@@ -61,14 +61,14 @@ const postWebhook = async (req, res) => {
                 if (interactive) {
                     if(listReplyId && listReplyId.startsWith("slot_")){
                         const appointment = pendingAppointments.get(from);
-                        if(appointment && appointment.step === 6){
+                        if(appointment && appointment.step === 11){
                             appointment.time = listReplyTitle;
                             console.log("Final appointment details", appointment); 
                             await sendAppointmentConfirmation(from, appointment);
                             
                         } else {
                             console.log("Error"); 
-                            await sendMessage('Something went wrong. Please restart your appointment booking')
+                            await sendMessage(from, 'Something went wrong. Please restart your appointment booking')
                         }
 
                         return res.sendStatus(200);
@@ -106,6 +106,36 @@ const postWebhook = async (req, res) => {
                         return res.sendStatus(200);
                     }
 
+                    if (replyId === "confirm_user_details") {
+                        const appointment = pendingAppointments.get(from);
+                        if (appointment && appointment.foundUser) {
+                            // Copy data from the found user to the appointment
+                            const foundUser = appointment.foundUser;
+                            pendingAppointments.set(from, {
+                                ...appointment,
+                                firstName: foundUser.firstName,
+                                lastName: foundUser.lastName,
+                                fullname: `${foundUser.firstName} ${foundUser.lastName}`,          
+                                step: 10// Skip to date entry
+                            });
+                            
+                            // Ask for the appointment date
+                            await sendMessage(from, "Please enter appointment date (DD-MM-YYYY).");
+                        } else {
+                            await sendMessage(from, "Something went wrong with your appointment. Please start over.");
+                            pendingAppointments.delete(from);
+                        }
+                        return res.sendStatus(200);
+                    }
+
+                    if (replyId === "cancel_user_details") {
+                        // User doesn't want to use existing details
+                        const appointment = pendingAppointments.get(from);
+                        await sendMessage(from, "Please enter your first name");
+                        pendingAppointments.set(from, { ...appointment, step: 3 });
+                        return res.sendStatus(200);
+                    }
+
                     if (replyId === "patient_lookup") {
                         userContextState.set(from, "awaiting_patient_details");
                         if (isUserVerified(from)) {
@@ -117,12 +147,8 @@ const postWebhook = async (req, res) => {
                         return res.sendStatus(200);
                     } else if (replyId === "make_appointment") {
                         userContextState.set(from, "awaiting_appointment_details");
-                        if (isUserVerified(from)) {
-                            await handleAppointmentBooking(from, body, 1);
-                        } else {
-                            userContextState.set(from, "awaiting_verification");
-                            await handleUserVerification(from, body);
-                        }
+                        await handleAppointmentBooking(from, body, 1);
+                        
                         return res.sendStatus(200);
                     } else if(replyId === "request_admission") {
                         await sendAdmissionType(from);
@@ -177,12 +203,10 @@ const postWebhook = async (req, res) => {
                         return res.sendStatus(200);
                     } 
                     else if (userContext === "awaiting_appointment_details") {
-                        if (isUserVerified(from)) {
+                       
                             await handleAppointmentBooking(from, body, 1);
                             userContextState.delete(from); // Reset after completion
-                        } else {
-                            await handleUserVerification(from, body);
-                        }
+                        
                         return res.sendStatus(200);
                     }
                     else if (userContext === "awaiting_verification") {
